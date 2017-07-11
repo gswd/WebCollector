@@ -6,3 +6,4 @@
 /Lazy/.idea
 /WebCollector-Hadoop/target/
 /JSRule/target/
+*.class
